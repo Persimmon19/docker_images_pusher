@@ -1,4 +1,4 @@
-mariadb:10.11
+mariadb:latest
 redis:7.2-alpine
 crazymax/msmtpd:latest
 librenms/librenms:latest
