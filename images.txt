@@ -1,1 +1,5 @@
 python:alpine3.19
+redis:7.2-alpine
+crazymax/msmtpd:latest
+librenms/librenms:latest
+mariadb:10
