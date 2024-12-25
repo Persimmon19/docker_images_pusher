@@ -5,3 +5,4 @@ librenms/librenms:latest
 mariadb:10
 nginx
 jasonish/evebox:master
+ghcr.io/stamusnetworks/arkimeviewer:master
