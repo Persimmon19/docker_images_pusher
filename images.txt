@@ -3,3 +3,5 @@ redis:7.2-alpine
 crazymax/msmtpd:latest
 librenms/librenms:latest
 mariadb:10
+nginx
+jasonish/evebox:master
