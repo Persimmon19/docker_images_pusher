@@ -6,3 +6,4 @@ mariadb:10
 nginx
 jasonish/evebox:master
 ghcr.io/stamusnetworks/arkimeviewer:master
+ghcr.io/stamusnetworks/scirius:selks
